@@ -1,0 +1,13 @@
+.root {}
+
+.but {
+    &:disabled {
+        background-color: #FFFFFF;
+        color: gray;
+    }
+
+    &:hover {
+        color: blue;
+        background-color: #FC3939;
+    }
+}

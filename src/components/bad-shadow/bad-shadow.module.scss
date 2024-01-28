@@ -1,0 +1,13 @@
+.root {
+    width: 111px;
+    height: 111px;
+    box-shadow: 0 0 53px 63px #B72525;
+
+    &:hover {
+        background-color: #F41515;
+    }
+
+    &:disabled {
+        background-color: gray;
+    }
+}
