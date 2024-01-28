@@ -16,7 +16,7 @@ export const Sanity = ({ className }: SanityProps) => {
             <div className={styles.wra}>
                 <button className={styles.butt}>Buttonךתצגכמענ</button>
             </div>
-            <h5>Heading 5</h5>
+            <h5>dsfghlkdjgdlkjfgdflkjdfg</h5>
             <img
                 src="https://wixplosives.github.io/codux-assets-storage/add-panel/image-placeholder.jpg"
                 alt=""
